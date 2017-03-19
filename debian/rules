@@ -60,9 +60,10 @@ DEB_CONFIGURE_EXTRA_FLAGS := \
 	--disable-srvloc --enable-zeroconf	\
 	--enable-ddp				\
 	--without-libevent			\
-	--with-init-style=debian-systemd		\
+	--with-init-style=debian-systemd	\
 	--localstatedir=/var/lib		\
-	--enable-debian
+	--enable-debian				\
+	--with-afpstats
 
 DEB_INSTALL_EXAMPLES_netatalk = debian/examples/*
 

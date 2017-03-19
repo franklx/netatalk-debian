@@ -35,3 +35,4 @@ usr/share/man/man8/cnid_metad.8
 usr/share/man/man8/netatalk.8
 var/lib/netatalk/
 lib/systemd/system/netatalk.service
+etc/dbus-1/system.d/netatalk-dbus.conf

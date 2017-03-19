@@ -1,3 +1,10 @@
+netatalk (3.1.11-1) UNRELEASED; urgency=medium
+
+  [ Franco Lucchini ]
+  * New upstream version (3.1.11)
+
+ -- Franco Lucchini <flucchini@gmail.com>  Sun, 19 Mar 2017 15:46:00 +0200
+
 netatalk (3.1.10-1) UNRELEASED; urgency=medium
 
   [ Adrian Knoth ]
